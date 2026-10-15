@@ -1,0 +1,6 @@
+[extend]
+useDefault = true
+
+[allowlist]
+description = "repo-specific exclusions"
+paths = ['''docs/samples/.*''']
